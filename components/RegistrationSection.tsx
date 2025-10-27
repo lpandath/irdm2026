@@ -39,7 +39,7 @@ export const RegistrationSection: React.FC = () => {
               </Button>
 
               <div className="text-sm text-gray-600">
-                Registration closes February 15, 2026
+                Registration closes February 19, 2026
               </div>
             </div>
           </div>
